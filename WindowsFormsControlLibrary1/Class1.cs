@@ -29,7 +29,7 @@ namespace Domain
 
         private static void UnityTest()
         {
-            for (int i = 0; i < 30; i++)
+            while (true)
             {
                 Thread.Sleep(3000);
                 int x = Cursor.Position.X;
