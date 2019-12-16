@@ -1,0 +1,5 @@
+C:\Users\pc\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\Hexagonal-Domain.exe
+C:\Users\pc\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\Hexagonal-Domain.pdb
+C:\Users\pc\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\Hexagonal-Domain.exe
+C:\Users\pc\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\Hexagonal-Domain.pdb
